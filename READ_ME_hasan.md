@@ -14,6 +14,10 @@ It asks respondents to think of a ladder, with the best possible life for them b
 Healthy life expectancy at birth:
 Healthy Life Expectancy (at birth) is the average number of years a person would expect to live in good health in a particular area based on modern mortality rates in that area and prevalence of self-reported good health.
 
+Correlation Coefficient Ranges:
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/118228120/224509491-b0d9078e-1d9e-4474-9117-87b7b7e7fae2.png">
+
+
 ### Question: Is there any coreleation between Life Ladder and Healthy life expectancy at birth?
 
 As a first step,  we check the whole available data of World Happiness Report between 2005 and 2021 for "Life Ladder" and "Healthy Life of Expectance at Birth". Please see fig1
