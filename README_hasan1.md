@@ -18,4 +18,15 @@ Healthy Life Expectancy (at birth) is the average number of years a person would
 
 As a first step,  we check the whole available data of World Happiness Report between 2005 and 2021 for "Life Ladder" and "Healthy Life of Expectance at Birth". Please see fig1
 
+![image](https://user-images.githubusercontent.com/118228120/224509186-3a1d1697-33ac-4653-a96a-7c08eba2abca.png)
+
+Correlation co-efficient value between Life Ladder and Healthy life expectancy at birth is: 0.71
+This means Assotiation between Life Ladder and Healthy life expectancy at birth is very high
+
+2- Secondly; for each country, we took the average values of "Life Ladder" and "Healthy life expectancy at birth" and again compare the values corelations.
+
+![image](https://user-images.githubusercontent.com/118228120/224509205-6e64b89b-67ed-43ed-9dc7-eafd625ff055.png)
+
+Correlation co-efficient value between Life Ladder and Healthy life expectancy at birth is: 0.77
+This means Assotiation between Average Life Ladder and Healthy life expectancy at birth is also very high
 
