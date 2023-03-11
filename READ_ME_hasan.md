@@ -15,6 +15,7 @@ Healthy life expectancy at birth:
 Healthy Life Expectancy (at birth) is the average number of years a person would expect to live in good health in a particular area based on modern mortality rates in that area and prevalence of self-reported good health.
 
 Correlation Coefficient Ranges:
+
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/118228120/224509491-b0d9078e-1d9e-4474-9117-87b7b7e7fae2.png">
 
 
