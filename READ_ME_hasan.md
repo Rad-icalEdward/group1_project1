@@ -8,7 +8,7 @@
 
 #### Glossary: 
 
-**Life Ladder: **
+**Life Ladder:**
 
 It asks respondents to think of a ladder, with the best possible life for them being a 10 and the worst possible life being a 0. They are then asked to rate their own current lives on that 0 to 10 scale.
 
