@@ -21,3 +21,9 @@ Overall, this dataset provides a valuable resource for researchers, policymakers
 <li>Positive affect
 <li>Negative affect
 <li>Confidence in national government</li></ul></ul>
+
+Relationship of Freedom to make life choices and Perceptions of corruption with Confidence in national government.
+
+Before look at relationships of data I would like to look at each parameter by year to find what is going on overall.
+
+
