@@ -36,4 +36,3 @@ This means Assotiation between Life Ladder and Healthy life expectancy at birth 
 
 Correlation co-efficient value between Life Ladder and Healthy life expectancy at birth is: 0.77
 This means Assotiation between Average Life Ladder and Healthy life expectancy at birth is also very high
-
