@@ -16,8 +16,6 @@ Overall, this dataset provides a valuable resource for researchers, policymakers
 # Questions to dataset
 * What is the relationship between social support and generosity?
 * Is there a positive relationship between happiness scores and their country’s healthy life expectancy?
-* What changes were there in happiness levels in Covid years?
-* Did confidence in governments change during Covid years?
 * What is the relationship between confidence in the government, freedom to make life choices, and perceived corruption?
 * How do these metrics differ globally or regionally?
 
