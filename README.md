@@ -5,7 +5,6 @@ Team Members:
 Julia Begley,
 Hasan Gokceoglu,
 Isil Bulut,
-Sumeyra Bharuchi,
 Violetta Antonova
 
 # Executive summary
