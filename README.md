@@ -42,7 +42,10 @@ The chart below shows us average Life Ladder score from the year 2005 to year 20
 
 ![plot](output/Average_life_ladder_by_years.jpg)
 
-# Top 10 Happiest and 10 Unhappiest countries 
+Top 10 Happiest and 10 Unhappiest countries
+
+Let's look at Top 3 most Happiest countries it's Denmark, Finland and Switzerland all the countries are located in Europe and two of them in Scandinavia.
+3 less Happiest countries are Zimbabwe, Yemen, Comoros. Two of them are located in Africa and one close to Africa. So may be the cold weather makes people more happier, then worm climate, It's also great opportunity for future researches, because in The World Happiness report don't have any information about weather and how weather affect peoples happiness. But for sure We can state that in Europe and Scandinavian countries GDP per catita is more higher than in Africa.
 
 ![plot](output/10hap_unhap.jpg)
 
