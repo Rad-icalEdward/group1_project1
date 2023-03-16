@@ -134,7 +134,7 @@ Analyzing Box Plots According to Years
 In order to create this box plot and to further perform Anova analysis, years 2005-2007 eliminated due to small sample sizes. 
 •	According to these boxes 50% of the life ladder data are between 4 and 6 (8 is the highest finding). 
 •	Negative outliners of Covid Years can be seen easily between 2019 and 2021. But despite Covid why is the world happier than years 2008 and 2011?
-•	There are lower means in 2008 and 2011. Can the reasons be some world turmoils like, economic crises; high hitting oil prices, rapidly decreasing world trade, Wall Street anti low-income protest, China Earthquake (2008) that 60.000 people were dead, nuclear disaster at the Fukushima Nuclear Power Plant (2011) or Arab Spring (2011) that affected Tunisia, Egypt, Yemen, Bahrain, Syria and Libya and indirectly some other countries…
+•	There are lower means in 2008 and 2011. Can the reasons be some world turmoils like, economic crises; high hitting oil prices, rapidly decreasing world trade, Wall Street anti low-income protest, China Earthquake (2008) that 60.000 people were dead, nuclear disaster at the Fukushima Nuclear Power Plant (2011) or Arab Spring (2011) that affected Tunisia, Egypt, Yemen, Bahrain, Syria and Libya. (www.peoplehistory.com)
 •	Also, in 2010 and 2014 some relief in the world can be seen.
   
   
