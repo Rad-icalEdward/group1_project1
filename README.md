@@ -106,8 +106,9 @@ As we can see from the plot that correlation between Perceptions of corruption w
 ![plot](output/correlation_Perception_gov.jpg)
   
   
+ Correlations of Parameters
   
-  Correlations of Parameters
+  
 In order to see relationships between all variables a correlation matrix has been created and examined with each parameter and found out if the correlations are positive or negative, strong, moderate or weak. Then for easy understanding they have been color coded in a heatmap. Reds are positive, blues are negative correlations. Color fades from strongest to weakest. Diagonal line is the correlation of the parameter itself which is “1”. For instance, we can see how Life Ladder is strongly positive correlated with GDP per capita (0,79), Social Support(0,72), Healthy Life Expectancy at Birth(0,73), and Freedom to Make Life Choices (0,54) but (moderate to strong) negative correlated with Perceptions of Corruption (-0,48). 
 
   ![image](https://user-images.githubusercontent.com/121508137/225598948-8a6be459-6056-4993-ba73-7476170b4e86.png)
