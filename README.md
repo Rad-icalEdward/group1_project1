@@ -153,6 +153,19 @@ Year 2019                                                  Year 2015            
      
 ![image](https://user-images.githubusercontent.com/121508137/225599617-44383b95-e74e-4d49-9f63-23108609bda7.png) ![image](https://user-images.githubusercontent.com/121508137/225599687-b2d88d3e-b868-4a62-891a-f85869200f93.png) ![image](https://user-images.githubusercontent.com/121508137/225599779-0985885b-216e-4202-a272-84945f2f5e2b.png)
 
+                                                                   
+                                                                   
+Results and Conclusions
+                                                                   
+                                                                   
+•	The things we would expect to increase happiness (like a higher healthy life expectancy at birth, social support, or freedom of make life choices), did increase happiness.
+                                                                   
+•	Confidence in governments and corruption has strong effect on freedom of make life choices which is strongly related with happiness. The happiest countries are (Norway (0.952), Denmark (0.944) and Finland (0.941) also  among the top 10 less corrupted countries.
+                                                                   
+•	Most happy continents are Oceania and Europe, despite South America and Asia’s GDPs are close to each other, South America seems happier. It was surprising that GDP per capita didn’t have a stronger influence on happiness or generosity (again money is not everything).
+                                                                   
+•	Happiness score changes significantly over time. It is interesting to find out the world was happier during Covid years compared the years 2008-2011. Deeply examining the reasons of the changes over the years can be subject to  another study.
+
 
 
 
