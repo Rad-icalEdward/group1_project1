@@ -176,7 +176,7 @@ These choropleth maps were generated using plotly express and show heatmap-style
                                                                    
 Our expectation was that Log GDP per capita would have a significant and consistent impact on happiness scores. What stands out when comparing these maps is that there is quite a lot of difference between the two, showing that the relationship between average Life Ladder score and average Log GDP per capita is a more complex and varied one that we thought. Multiple countries have very low average Log GDP per capita but higher average Life Ladder scores.
                                                                    
-It is useful to see the data in this map format to see how varied the scores are across the globe.                                                                   
+It is useful to see the data in this map format to see how varied the scores are across the globe. We know from the correlation matrix that there is a high correlation between these 2 factors, these maps show that there is greater complexity to be found.                                                                   
                                                                    
 # Results and Conclusions
                                                                    
