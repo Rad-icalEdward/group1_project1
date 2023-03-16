@@ -153,7 +153,7 @@ Year 2019                                                  Year 2015            
      
 ![image](https://user-images.githubusercontent.com/121508137/225599617-44383b95-e74e-4d49-9f63-23108609bda7.png) ![image](https://user-images.githubusercontent.com/121508137/225599687-b2d88d3e-b868-4a62-891a-f85869200f93.png) ![image](https://user-images.githubusercontent.com/121508137/225599779-0985885b-216e-4202-a272-84945f2f5e2b.png)
 
-Looking at happiness and Log GDP per capita by continent
+# Looking at happiness and Log GDP per capita by continent
 ![Life_ladder_scores_by_continent](https://user-images.githubusercontent.com/121570218/225714227-4e06873a-e513-414d-9f1f-7210f7ab75f8.jpg)
 ![Log_GDP_percapita_by_continent](https://user-images.githubusercontent.com/121570218/225714261-4af241f1-7942-439d-a53d-226fc2f101c6.jpg)
 
@@ -168,12 +168,17 @@ North America, South America and Asia all have similar Log GDP per capita, but A
 
 There were 2 key issues with obtaining and organinsing this data. The first was that the dataset provided did not include continents and so these needed to be appended for analysis. The second was that the process for appending the continent required that the country names matched a specific list in the pycountry_convert database, which was not the case for all countries in this dataset. For example, pycountry_convert has Congo and The Democratic Republic of the Congo, while the dataset used the capital cities to differentiate - Congo (Brazzaville) and Congo (Kinshasa). This also meant that some newer, but internationally recognised, countries and territories may have been incorrectly labelled in our dataset or the pycountry_convert database.                                                         
 
-Mapping happiness and Log GDP per capita globally
+# Mapping happiness and Log GDP per capita globally
 ![Average_life_ladder_by_country](https://user-images.githubusercontent.com/121570218/225714573-9abb1f19-3e4e-4149-989b-9b5b29636649.jpg)
 ![GDP_by_country](https://user-images.githubusercontent.com/121570218/225714607-440dbc5e-14dd-447e-9f84-6d1036caa646.jpg)
                                                        
-
-Results and Conclusions
+These choropleth maps were generated using plotly express and show heatmap-style distribution of average Life Ladder score and average Log GDP per capita, by country. Dark blue represents higher scores, white are mid scores, Dark red represents the lowest scores.
+                                                                   
+Our expectation was that Log GDP per capita would have a significant and consistent impact on happiness scores. What stands out when comparing these maps is that there is quite a lot of difference between the two, showing that the relationship between average Life Ladder score and average Log GDP per capita is a more complex and varied one that we thought. Multiple countries have very low average Log GDP per capita but higher average Life Ladder scores.
+                                                                   
+It is useful to see the data in this map format to see how varied the scores are across the globe.                                                                   
+                                                                   
+# Results and Conclusions
                                                                    
                                                                    
 •	The things we would expect to increase happiness (like a higher healthy life expectancy at birth, social support, or freedom of make life choices), did increase happiness.
