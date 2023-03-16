@@ -110,15 +110,24 @@ As we can see from the plot that correlation between Perceptions of corruption w
   Correlations of Parameters
 In order to see relationships between all variables a correlation matrix has been created and examined with each parameter and found out if the correlations are positive or negative, strong, moderate or weak. Then for easy understanding they have been color coded in a heatmap. Reds are positive, blues are negative correlations. Color fades from strongest to weakest. Diagonal line is the correlation of the parameter itself which is “1”. For instance, we can see how Life Ladder is strongly positive correlated with GDP per capita (0,79), Social Support(0,72), Healthy Life Expectancy at Birth(0,73), and Freedom to Make Life Choices (0,54) but (moderate to strong) negative correlated with Perceptions of Corruption (-0,48). 
 
+  ![image](https://user-images.githubusercontent.com/121508137/225598948-8a6be459-6056-4993-ba73-7476170b4e86.png)
+
  
 Correlations with Life Ladder and other parameters also can be seen from below regression plots as increasing and decreasing lines and by looking at their slopes.
  
+![image](https://user-images.githubusercontent.com/121508137/225599055-c3cd249c-5b7a-45c0-998c-8ea1bd534511.png)
+
   
 If we analyze the Generosity separately, we can see from above that surprisingly there is a very weak correlation with GDP per capita, or with social safety however Freedom to Make Life Choices has stronger positive effect. Same results can be seen from below regression lines which is nearly flat for social support (r=0.07) and linearly increasing with Freedom to Make Life Choices (r=0.4).
          
+  ![image](https://user-images.githubusercontent.com/121508137/225599252-be6b8370-aeaa-4e6e-819c-3424507c2799.png) ![image](https://user-images.githubusercontent.com/121508137/225599335-765951d5-f3c2-44c6-9084-e966a9c39b2e.png)
+
+
+  
 Analyzing Box Plots According to Years 
 
- 
+ ![image](https://user-images.githubusercontent.com/121508137/225599396-3e93ff63-a0d1-4f75-aa8e-c379375ea7a0.png)
+
 
 
 In order to create this box plot and to further perform Anova analysis, years 2005-2007 eliminated due to small sample sizes. 
@@ -126,17 +135,33 @@ In order to create this box plot and to further perform Anova analysis, years 20
 •	Negative outliners of Covid Years can be seen easily between 2019 and 2021. But despite Covid why is the world happier than years 2008 and 2011?
 •	There are lower means in 2008 and 2011. Can the reasons be some world turmoils like, economic crises; high hitting oil prices, rapidly decreasing world trade, Wall Street anti low-income protest, China Earthquake (2008) that 60.000 people were dead, nuclear disaster at the Fukushima Nuclear Power Plant (2011) or Arab Spring (2011) that affected Tunisia, Egypt, Yemen, Bahrain, Syria and Libya and indirectly some other countries…
 •	Also, in 2010 and 2014 some relief in the world can be seen.
+  
+  
 Is there a significant happiness change between 2008-2021
+  
 •	H0: There is no significant happiness score change from 2008 to 2021.
 •	One-way Anova test has been applied. Since p (0.02) value < 0.05, null hypothesis has been rejected. There is significant happiness score change from 2008 to 2021 which causes more questions to ask and should be analyzed further.
  
+ ![image](https://user-images.githubusercontent.com/121508137/225599536-a4960609-ec6b-445c-8871-2e1fae03d4a3.png)
+                                                                 
 
 
 
 Note: In order to see if the distributions are Normal, distribution plots have been used and have seen that they are more or less normally distributed. Examples are below:
 Year 2019                                                  Year 2015                                            Year 2010
      
+![image](https://user-images.githubusercontent.com/121508137/225599617-44383b95-e74e-4d49-9f63-23108609bda7.png) ![image](https://user-images.githubusercontent.com/121508137/225599687-b2d88d3e-b868-4a62-891a-f85869200f93.png) ![image](https://user-images.githubusercontent.com/121508137/225599779-0985885b-216e-4202-a272-84945f2f5e2b.png)
 
 
 
+
+
+                                                                   
+                                                                   
+                                                                   
+                                                                   
+                                                                   
+                                                                   
+                                                                   
+                                                                   
   
